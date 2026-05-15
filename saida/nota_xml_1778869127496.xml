@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documento formato="XML">
+    <linha>NOTA FISCAL</linha>
+    <linha>Número: NF-2026-0001</linha>
+    <linha>Data de emissão: 10/05/2026</linha>
+    <linha>Empresa emissora: TechPlus Soluções Empresariais</linha>
+    <linha>Cliente: Mercado Bom Preço LTDA</linha>
+    <linha>Documento do cliente: 12.345.678/0001-90</linha>
+    <linha></linha>
+    <linha>ITENS</linha>
+    <linha>- Licença de software administrativo | Qtd: 1 | Valor unitário: R$ 3.500,00 | Subtotal: R$ 3.500,00</linha>
+    <linha>- Configuração inicial do sistema | Qtd: 1 | Valor unitário: R$ 1.200,00 | Subtotal: R$ 1.200,00</linha>
+    <linha>- Horas de suporte técnico | Qtd: 6 | Valor unitário: R$ 180,00 | Subtotal: R$ 1.080,00</linha>
+    <linha></linha>
+    <linha>VALORES</linha>
+    <linha>Total dos produtos/serviços: R$ 5.780,00</linha>
+    <linha>Imposto aplicado: 8.5%</linha>
+    <linha>Valor do imposto: R$ 491,30</linha>
+    <linha>Total da nota fiscal: R$ 6.271,30</linha>
+</documento>

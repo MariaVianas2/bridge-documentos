@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Gerador de Documentos - Bridge</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <h1>Gerador de Documentos Empresariais</h1>
+        <p>Sistema em Java usando o padrão estrutural Bridge</p>
+    </header>
+
+    <main class="card">
+        <h2>Gerar documento</h2>
+
+        <form action="/gerar" method="get">
+            <label for="documento">Tipo de documento</label>
+            <select name="documento" id="documento" required>
+                <option value="relatorio">Relatório Gerencial</option>
+                <option value="nota">Nota Fiscal</option>
+                <option value="proposta">Proposta Comercial</option>
+                <option value="contrato">Contrato Simplificado</option>
+            </select>
+
+            <label for="formato">Formato de saída</label>
+            <select name="formato" id="formato" required>
+                <option value="TXT">TXT</option>
+                <option value="HTML">HTML</option>
+                <option value="PDF">PDF Simulado</option>
+                <option value="JSON">JSON</option>
+                <option value="XML">XML</option>
+            </select>
+
+            <button type="submit">Gerar e baixar arquivo</button>
+        </form>
+    </main>
+
+    <section class="info">
+        <h3>Como o Bridge está sendo aplicado?</h3>
+
+        <p>
+            A abstração é representada pela classe <strong>Documento</strong>.
+            A implementação é representada pela interface <strong>GeradorArquivo</strong>.
+        </p>
+
+        <p>
+            Dessa forma, qualquer documento pode ser combinado com qualquer formato
+            sem alterar as classes existentes.
+        </p>
+    </section>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,21 @@
+CONTRATO SIMPLIFICADO DE PRESTAÇÃO DE SERVIÇOS
+Contratante: Mercado Bom Preço LTDA | Documento: 12.345.678/0001-90
+Contratado: TechPlus Soluções Empresariais | Documento: 98.765.432/0001-10
+
+OBJETO DO CONTRATO
+Prestação de serviços de manutenção, suporte técnico e acompanhamento do sistema administrativo.
+
+VIGÊNCIA E VALOR
+Início: 01/05/2026
+Fim: 01/08/2026
+Valor acordado: R$ 6.800,00
+
+CLÁUSULAS BÁSICAS
+1. A contratada deverá prestar suporte técnico durante o horário comercial.
+2. A contratante deverá fornecer as informações necessárias para execução do serviço.
+3. O pagamento será realizado conforme as condições acordadas entre as partes.
+4. As partes poderão encerrar o contrato mediante aviso prévio de 15 dias.
+
+ASSINATURAS
+Contratante: ________________________________
+Contratado: __________________________________

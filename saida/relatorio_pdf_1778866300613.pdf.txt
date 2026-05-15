@@ -1,0 +1,27 @@
+========================================
+          PDF SIMULADO VIA CONSOLE       
+========================================
+
+RELATÓRIO GERENCIAL
+Empresa: TechPlus Soluções Empresariais
+Período analisado: Maio/2026
+
+RESUMO FINANCEIRO
+Receita: R$ 85.000,00
+Despesas: R$ 51.400,00
+Resultado líquido: R$ 33.600,00
+
+INDICADORES
+- Faturamento mensal: R$ 85.000,00 | Análise: crescimento de 12% em relação ao mês anterior
+- Clientes ativos: 320 | Análise: base estável com entrada de novos clientes
+- Chamados resolvidos: 94% | Análise: bom índice de atendimento da equipe
+
+RESULTADO GERAL
+A empresa apresentou lucro e crescimento no período analisado.
+
+OBSERVAÇÕES
+Recomenda-se manter o investimento em suporte e revisar custos operacionais.
+
+========================================
+              FIM DO PDF SIMULADO        
+========================================
