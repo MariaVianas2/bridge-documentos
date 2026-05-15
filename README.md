@@ -5,6 +5,11 @@
 Este projeto foi desenvolvido em Java com o objetivo de aplicar o padrão estrutural Bridge, permitindo a separação entre os tipos de documentos empresariais e os formatos de saída dos arquivos.
 
 A aplicação possibilita gerar diferentes documentos em múltiplos formatos sem modificar o código existente, promovendo desacoplamento e extensibilidade.
+---
+
+## LINK DO VIDEO
+
+https://youtu.be/TtVAC9rizG4
 
 ---
 
