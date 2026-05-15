@@ -153,16 +153,6 @@ http://localhost:8080
 
 ---
 
-# 📂 Saída dos Arquivos
-
-Os arquivos gerados são salvos automaticamente na pasta:
-
-```txt
-saida/
-```
-
----
-
 # 🧠 Tecnologias Utilizadas
 
 - Java
